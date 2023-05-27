@@ -4,3 +4,5 @@ Output to Twitter in the form of a tweet. using Go client library for the Twitte
 - Authenticate 
 - return twitter user name and profile 
 - tweet a message
+
+Credentials need to be loaded from the environment variables file `.env`
